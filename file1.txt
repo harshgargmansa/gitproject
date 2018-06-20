@@ -1,4 +1,24 @@
 hiii there 
+<<<<<<< HEAD
 please update on origin 
 
 file branch 
+||||||| merged common ancestors
+please 
+
+<<<<<<<<< Temporary merge branch 1
+i updated this 6.11	
+||||||||| merged common ancestors
+i updated 
+=========
+i updated this 6.11	
+today 20 june 2018
+>>>>>>>>> Temporary merge branch 2
+=======
+please 
+i updated this 6.11	
+merged common ancestors
+i updated 
+i updated this 6.11	
+today 20 june 2018
+>>>>>>> master
