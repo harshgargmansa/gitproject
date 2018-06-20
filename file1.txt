@@ -1,4 +1,11 @@
 hiii there 
 please 
 
+<<<<<<< HEAD
 i updated this 6.11	
+||||||| merged common ancestors
+i updated 
+=======
+i updated this 6.11	
+today 20 june 2018
+>>>>>>> file
